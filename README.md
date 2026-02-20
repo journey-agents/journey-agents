@@ -10,9 +10,9 @@
 
 Every product is built by AI agents, for humans who'd rather spend time on what matters.
 
-[![Career](https://img.shields.io/badge/JobJourney_AI-Career_Intelligence-FF6B35?style=for-the-badge&logo=target&logoColor=white)](https://github.com/journey-agents/journey-ai)
-[![Trading](https://img.shields.io/badge/Stock_Advisor-Trading_Intelligence-00C853?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/journey-agents/stock-advisor)
-[![Astrology](https://img.shields.io/badge/Stellune-Cosmic_Intelligence-C9A84C?style=for-the-badge&logo=sparkles&logoColor=white)](https://github.com/journey-agents/fengshui)
+![Career](https://img.shields.io/badge/JobJourney_AI-Career_Intelligence-FF6B35?style=for-the-badge&logo=target&logoColor=white)
+![Trading](https://img.shields.io/badge/Stock_Advisor-Trading_Intelligence-00C853?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Astrology](https://img.shields.io/badge/Stellune-Cosmic_Intelligence-C9A84C?style=for-the-badge&logo=sparkles&logoColor=white)
 
 </div>
 
@@ -49,12 +49,6 @@ The job market is brutal. You shouldn't have to spend 40 hours a week on top of 
 
 **Privacy**: All data stored locally. Encrypted at rest. Zero telemetry. Open source (AGPL-3.0).
 
-<div align="center">
-
-[**Explore JobJourney AI →**](https://github.com/journey-agents/journey-ai)
-
-</div>
-
 ---
 
 ### <img src="https://img.shields.io/badge/-00C853?style=flat-square" width="12"> Stock Advisor — *Wall Street Intelligence. On Your Laptop.*
@@ -76,12 +70,6 @@ Hedge funds spend millions on quantitative analysis. Stock Advisor brings the sa
 
 **Risk Management**: Kelly Criterion sizing, CVaR tail risk, drawdown circuit breakers, regime-aware position gates.
 
-<div align="center">
-
-[**Explore Stock Advisor →**](https://github.com/journey-agents/stock-advisor)
-
-</div>
-
 ---
 
 ### <img src="https://img.shields.io/badge/-C9A84C?style=flat-square" width="12"> Stellune 星月秘语 — *The Cosmos, in Your Pocket*
@@ -101,12 +89,6 @@ The only astrology app that combines real JPL DE421 planetary calculations, West
 **The Stack**: SwiftUI + GRDB (SQLite) + Custom JPL BSP parser + WidgetKit + CoreMotion parallax
 
 **Privacy**: No account. No tracking. No internet. Your birth data never leaves your phone. $0.99 forever.
-
-<div align="center">
-
-[**Explore Stellune →**](https://github.com/journey-agents/fengshui)
-
-</div>
 
 ---
 
@@ -156,7 +138,7 @@ The only astrology app that combines real JPL DE421 planetary calculations, West
 
 <div align="center">
 
-**Journey AI** · Founded 2026 · By [Yingjie Li](https://github.com/journey-agents)
+**Journey AI** · Founded 2026 · By Yingjie Li
 
 *Building autonomous intelligence for the decisions that matter most.*
 
